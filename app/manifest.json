@@ -1,0 +1,14 @@
+{
+  "name": "Dash Cash Wallet",
+  "description": "Dash Cash Wallet Extension from ZeroTwo",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "DashCash",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage"]
+}
