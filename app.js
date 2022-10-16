@@ -1,6 +1,6 @@
 const express = require('express');
 const logger = require('./config/winston.js');
-const test = require('./routes/test')
+const dash = require('./routes/dash')
 const db = require('./lib/db.js');
 
 
@@ -9,7 +9,7 @@ const app = express();
 
 //app.use('/login', login);
 //app.use('/join', join);
-app.use('/test', test);
+app.use('/dash', dash);
 // app.use(passport.initialize());
 // app.use(passport.session());
 // app.use(flash());
