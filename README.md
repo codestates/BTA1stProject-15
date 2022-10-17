@@ -16,6 +16,7 @@ https://user-images.githubusercontent.com/40445771/196066952-feb95225-8473-4c8d-
 - 사용자 패스워드로 지갑 정보 찾기(보완필요)
 
 https://user-images.githubusercontent.com/40445771/196067569-23288fc9-0e21-44ae-9be8-11d3252ca9f1.mov
+
 https://user-images.githubusercontent.com/40445771/196067040-43a5c6e1-6aa2-44bb-b990-2fa0abdf720f.mov
 
 ### 잔액 조회(미구현)
