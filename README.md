@@ -6,21 +6,35 @@
 
 - Dash 코인 SDK 활용하여 니모닉 발급 & 지갑 생성
 - 니모닉 값, 패스워드 암호화 하여 DB 저장
+- 지갑 생성 시 크롬 스토리지에 니모닉 값 저장
+
+https://user-images.githubusercontent.com/40445771/196066952-feb95225-8473-4c8d-bf45-d7cb9decb196.mov
+
 
 ### 지갑 가져오기
 
 - 니모닉 값으로 지갑 정보 찾기
-- 사용자 패스워드로 지갑 정보 찾기
+- 사용자 패스워드로 지갑 정보 찾기(보완필요)
 
-### 잔액 조회
+https://user-images.githubusercontent.com/40445771/196067040-43a5c6e1-6aa2-44bb-b990-2fa0abdf720f.mov
 
-- 미구현(블록 기록을 가져와서 잔액 계산하는 로직 필요)
+
+
+### 잔액 조회(미구현)
+
+- 블록 기록을 가져와서 잔액 계산하는 로직 필요
+
+![wallet-balance](https://user-images.githubusercontent.com/40445771/196067084-614384a3-3676-44d8-b759-8652ab7190bb.png)
 
 ### 송금
 
-- 사용자 스토리지에 저장된 니모닉 값 활용하여 토큰 전송
+- 크롬 스토리지에 저장된 니모닉 값 활용하여 토큰 전송
 - Dash 코인 SDK 활용하여 토큰 전송
 - 수수료 고정
+
+https://user-images.githubusercontent.com/40445771/196067292-7376e485-96fb-4b08-bbac-66263c0db38e.mov
+
+
 
 ## 클라이언트 실행 방법
 
