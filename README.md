@@ -29,7 +29,6 @@ https://user-images.githubusercontent.com/40445771/196067040-43a5c6e1-6aa2-44bb-
 
 - 크롬 스토리지에 저장된 니모닉 값 활용하여 토큰 전송
 - Dash 코인 SDK 활용하여 토큰 전송
-- 수수료 고정
 
 https://user-images.githubusercontent.com/40445771/196067292-7376e485-96fb-4b08-bbac-66263c0db38e.mov
 
