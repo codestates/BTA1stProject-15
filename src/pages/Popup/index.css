@@ -37,6 +37,7 @@ code {
   border-radius: 8px;
   border: none;
   font-weight: 700;
+  cursor: pointer;
 }
 
 .btn-primary {
@@ -48,4 +49,10 @@ input {
   margin: 8px;
   height: 30px;
   width: 200px;
+}
+
+textarea {
+  width: 200px;
+  height: 100px;
+  margin-bottom: 8px;
 }
